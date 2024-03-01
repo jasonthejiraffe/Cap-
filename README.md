@@ -1,5 +1,5 @@
 # Cap!
-![]()
+![](https://github.com/jasonthejiraffe/cap/blob/main/cap.gif)
 ## Description
 
 Need a high quality screenshot to share an interesting site? This app uses the ApiFlash API to take screenshots of a given website with a variety of parameters. First, you will sign up for an ApiFlash account and explore the query builder that allows you to test out queries. Then, you will try making a single static API call from your site. Finally, you will build an interface that allows you to get your own screenshots and insert them into the page.
